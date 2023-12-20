@@ -12,6 +12,5 @@ Bot bu Github projesi üzerinden **50 Star** ve **20 Fork** olduğunda paylaşı
 - Günlük Rapor
 - Whitelist
 - Moderasyon Limiti
-- 
 
 ![image](https://github.com/h3kdev/discord-guard-bot/assets/94198907/b7d46c52-8228-441e-9dff-70cb49b8a90e)
